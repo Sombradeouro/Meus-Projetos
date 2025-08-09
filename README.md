@@ -1,27 +1,32 @@
-#Meu-Scripts
-#Introdução 
+# Meu-Scripts 💻
 
-Aqui você irá encontrar os códigos que eu já fiz pra aumentar meu repertório, como cálculos de IMC, Conversor de números romanos, Contador de palavras e entre outros.
+## Introdução
 
-#Oq tem nesse repositório?
+Aqui você encontra diversos códigos que desenvolvi para ampliar meu repertório e prática em programação.  
+Tem exemplos como cálculo de IMC, conversor de números romanos, contador de palavras, entre outros.
 
--Códigos na linguagem python.
--Codigos que eu já fiz com base nos meus ensinos.
--Códigos que resolvem algumas questões do dia a dia.
+## O que tem neste repositório?
 
-#Por que mostrar esse repositório?
+- Scripts escritos em Python.  
+- Códigos baseados nos meus estudos e práticas.  
+- Soluções simples para problemas do dia a dia.
 
-Pra compartilhar meus conhecimentos e habilidades úteis na área do mercado de trabalho.
+## Por que compartilhar este repositório?
 
-#Como usar?
+Para dividir meus conhecimentos e habilidades, além de mostrar minha evolução na área de programação, útil para o mercado de trabalho.
 
-Você instala a linguagem python e uma IDE como o Visual Studio Code pra abrir os programas, Depois você abre o arquivo e executa no botão de executar código.
+## Como usar?
 
-Alguns Codigos podem pedir pra digitar alguma informação.
+1. Instale a linguagem Python no seu computador (https://www.python.org/downloads/).  
+2. Use uma IDE ou editor de código, como o Visual Studio Code (https://code.visualstudio.com/).  
+3. Abra o arquivo desejado e execute o código (geralmente há um botão "Run" ou “Executar”).  
+4. Alguns scripts podem solicitar que você digite informações no terminal.
 
-#Área de contatos
+## Contato
 
-(81) +55 9104-4667
-Matheusjosedesouzasales2008@gmail.com
+📞 (81) 9104-4667  
+📧 matheusjosedesouzasales2008@gmail.com
 
+---
 
+Sinta-se à vontade para explorar, usar os códigos e entrar em contato caso tenha dúvidas ou sugestões!
